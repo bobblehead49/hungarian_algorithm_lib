@@ -9,10 +9,15 @@
 // by Cong Ma, 2016
 // 
 
+// Copyright (c) 2023 Kosuke Suzuki
+// Modified and released under the 2-Clause BSD license
+// https://opensource.org/license/bsd-2-clause/
+
+
 #include <stdlib.h>
 #include <cfloat> // for DBL_MAX
 #include <cmath>  // for fabs()
-#include "Hungarian.h"
+#include <hungarian_algorithm_lib/Hungarian.h>
 
 
 HungarianAlgorithm::HungarianAlgorithm(){}

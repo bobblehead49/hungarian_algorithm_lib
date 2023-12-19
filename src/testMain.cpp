@@ -1,5 +1,9 @@
+// Copyright (c) 2023 Kosuke Suzuki
+// Modified and released under the 2-Clause BSD license
+// https://opensource.org/license/bsd-2-clause/
+
 #include <iostream>
-#include "Hungarian.h"
+#include "../include/hungarian_algorithm_lib/Hungarian.h"
 
 
 int main(void)
