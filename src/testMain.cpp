@@ -3,7 +3,7 @@
 // https://opensource.org/license/bsd-2-clause/
 
 #include <iostream>
-#include "../include/hungarian_algorithm_lib/Hungarian.h"
+#include "../include/hungarian_algorithm/Hungarian.h"
 
 
 int main(void)

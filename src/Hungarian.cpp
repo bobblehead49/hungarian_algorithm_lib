@@ -17,7 +17,7 @@
 #include <stdlib.h>
 #include <cfloat> // for DBL_MAX
 #include <cmath>  // for fabs()
-#include <hungarian_algorithm_lib/Hungarian.h>
+#include <hungarian_algorithm/Hungarian.h>
 
 
 HungarianAlgorithm::HungarianAlgorithm(){}
